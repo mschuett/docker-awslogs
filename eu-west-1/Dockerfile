@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20160525
+FROM ubuntu:trusty
 MAINTAINER Ryuta Otaki <otaki.ryuta@classmethod.jp>, Sergey Zhukov <sergey@jetbrains.com>
 
 RUN apt-get update
